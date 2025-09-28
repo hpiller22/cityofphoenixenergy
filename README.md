@@ -14,4 +14,4 @@ This repository shows my City of Phoenix data project. The data was obtained fro
 
 # Dashboard Author
 Halianna Piller
-hrpiller@gmail.com 
+- hrpiller@gmail.com 
